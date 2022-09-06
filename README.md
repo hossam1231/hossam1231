@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hossam1231
-- 👀 I’m interested in ... Web development, machine learning 
-- 🌱 I’m currently learning ... PHP , typescript
-- 💞️ I’m looking to collaborate on ... Ecommerce 
+- 👀 I’m interested in ... Web development, React, Node, React Native 
+- 🌱 I’m currently learning ... Redwood , typescript
+- 💞️ I’m looking to collaborate on ... Leet code, revision of core js and its quirks 
 - 📫 How to reach me ... hossamsulleman@gmail.com , (UK +44) 07738656154
 
 <!---
