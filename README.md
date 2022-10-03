@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hossam1231
-- 👀 I’m interested in ... Web development, React, Node, React Native 
-- 🌱 I’m currently learning ... Redwood , typescript
+- 👀 I’m interested in ... Redwood, React, Node, React Native, PHP
+- 🌱 I’m currently learning ... Redwood, typescript, Go
 - 💞️ I’m looking to collaborate on ... Leet code, revision of core js and its quirks 
 - 📫 How to reach me ... hossamsulleman@gmail.com , (UK +44) 07738646154
 
