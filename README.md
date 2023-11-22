@@ -1,1 +1,1 @@
-- Go, elixir, F#, C#, React, Javascript, Gql
+- Go, elixir, F#, C#, React, Javascript, Gql, Swift
