@@ -1,5 +1,5 @@
-Potential aspirations
+AKA MR
 
-- Go, elixir, F#, C#, React, Javascript, Gql, Swift
+- Go, React, React native, Javascript, GraphQL 
 
 😆 my best code is private 
